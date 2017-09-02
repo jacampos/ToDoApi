@@ -1,0 +1,10 @@
+/home/tano/Documents/Samples/ToDoApi/bin/Debug/netcoreapp2.0/ToDoApi.deps.json
+/home/tano/Documents/Samples/ToDoApi/bin/Debug/netcoreapp2.0/ToDoApi.runtimeconfig.json
+/home/tano/Documents/Samples/ToDoApi/bin/Debug/netcoreapp2.0/ToDoApi.runtimeconfig.dev.json
+/home/tano/Documents/Samples/ToDoApi/bin/Debug/netcoreapp2.0/ToDoApi.dll
+/home/tano/Documents/Samples/ToDoApi/bin/Debug/netcoreapp2.0/ToDoApi.pdb
+/home/tano/Documents/Samples/ToDoApi/obj/Debug/netcoreapp2.0/ToDoApi.csproj.CoreCompileInputs.cache
+/home/tano/Documents/Samples/ToDoApi/obj/Debug/netcoreapp2.0/ToDoApi.AssemblyInfoInputs.cache
+/home/tano/Documents/Samples/ToDoApi/obj/Debug/netcoreapp2.0/ToDoApi.AssemblyInfo.cs
+/home/tano/Documents/Samples/ToDoApi/obj/Debug/netcoreapp2.0/ToDoApi.dll
+/home/tano/Documents/Samples/ToDoApi/obj/Debug/netcoreapp2.0/ToDoApi.pdb
